@@ -5,7 +5,7 @@ This is a simple ticket system for discord bots. It is a very simple system that
 - [Node.js](https://nodejs.org/en/) I recommend using the 18.0.0 version or higher.
 
 ## Installation
-1. Download the latest release from [here](https://devloli-main.github.io/discord-bot-ticket-system/)
+1. Download the latest release from [here](https://github.com/devloli-main/DiscordV14-Bot-Ticket-System/archive/refs/heads/main.zip)
 2. Extract the zip file
 3. Open the folder
 4. Open the config.js file
